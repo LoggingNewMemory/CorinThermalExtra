@@ -1,0 +1,2 @@
+dalvik.vm.dexopt.thermal-cutoff=0
+ro.vendor.mtk_thermal_2_0=0
