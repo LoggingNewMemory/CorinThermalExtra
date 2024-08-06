@@ -1,3 +1,5 @@
+![Corin Thermal Extra](https://github.com/user-attachments/assets/181e60d9-fac5-4c76-a5ea-a9422fb89416)
+
 Corin Thermal Extra
 
 Extra thermal modules for Corin X MTKVest
