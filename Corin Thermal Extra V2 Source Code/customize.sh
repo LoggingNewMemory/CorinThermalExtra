@@ -18,4 +18,4 @@ ui_print "====================================="
 ui_print "        Apply Thermal Mods OK        "
 ui_print "====================================="
 
-am start -a android.intent.action.VIEW -d https://t.me/yamadacookingcenter/52 >/dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://t.me/yamadacookingcenter/62 >/dev/null 2>&1
