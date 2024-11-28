@@ -1,6 +1,6 @@
 ![Corin Thermal Extra](https://github.com/user-attachments/assets/32b7b6ca-bb36-4018-9aa4-b348d0cf9360)
 
-Corin Thermal Extra
+# Corin Thermal Extra
 
 [English](./README.md)
 
