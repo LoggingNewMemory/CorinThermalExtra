@@ -4,7 +4,7 @@
 
 [English](./README.md)
 
-[Corin X MTKVest](https://github.com/LoggingNewMemory/CorinXMTKVest) 用の追加サーマルモジュールです。
+[Corin X MTKVest](https://github.com/LoggingNewMemory/CorinXMTKVest) の追加用サーマルモジュールです。
 
 開発者: Kanagawa Yamada
 
