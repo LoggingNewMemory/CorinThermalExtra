@@ -2,7 +2,9 @@
 
 Corin Thermal Extra
 
-Extra thermal modules for Corin X MTKVest
+[日本語](./README_JP.md)
+
+Extra thermal modules for [Corin X MTKVest](https://github.com/LoggingNewMemory/CorinXMTKVest)
 
 By: Kanagawa Yamada
 
